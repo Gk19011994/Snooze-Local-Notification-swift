@@ -5,4 +5,4 @@ Here is simplest code and its up to date with swift version according to the dat
 Please checkout this repository and save your time.it is working with real time application i.e.
 on Live at Apple Appstore.
 
-Developer Govind Kumar
+Developer 
